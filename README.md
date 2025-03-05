@@ -9,7 +9,6 @@ Link:
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#Normalizing-the-Data)
-* [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
 * [Sources](#Data-Sources)
 * [Conclusion](#conclusion)
