@@ -11,7 +11,7 @@ Link:
 * [Normalizing the Data](#normaling-the-data)
 * [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
-* [Sources](#Data Sources)
+* [Sources](#Data-Sources)
 * [Conclusion](#conclusion)
 
 ## Motivation:
